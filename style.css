@@ -2,10 +2,12 @@ a {
     text-decoration: none !important;
 }
 body {
-color: rgb(12, 97, 90) !important;
-
-background-color: rgb(220, 220, 248) !important;
+/* color:black !important; */
+background-image:url("https://i1.wp.com/fashionablymale.net/wp-content/uploads/2015/03/oriol-elcacho-paul-shark-ss15-lookbook-007.jpg?resize=768%2C432&is-pending-load=1#038;ssl=1") !important ;
+/* background-color: rgb(220, 220, 248) !important; */
+/* background-repeat: no-repeat; */
 }
+
 i{
     font-size: 100px;
 }
